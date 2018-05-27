@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.7.2)
+  - DeepDiff (1.2.0)
+  - Kingfisher (4.7.0)
+  - Moya (11.0.2):
+    - Moya/Core (= 11.0.2)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Realm (3.5.0):
+    - Realm/Headers (= 3.5.0)
+  - Realm/Headers (3.5.0)
+  - RealmSwift (3.5.0):
+    - Realm (= 3.5.0)
+  - Result (3.2.4)
+  - Typhoon (4.0.4):
+    - Typhoon/DeallocNotifier (= 4.0.4)
+    - Typhoon/IntrospectionUtils (= 4.0.4)
+    - Typhoon/no-arc (= 4.0.4)
+  - Typhoon/DeallocNotifier (4.0.4)
+  - Typhoon/IntrospectionUtils (4.0.4)
+  - Typhoon/no-arc (4.0.4):
+    - Typhoon/IntrospectionUtils
+
+DEPENDENCIES:
+  - DeepDiff
+  - Kingfisher
+  - Moya
+  - RealmSwift
+  - Typhoon
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - DeepDiff
+    - Kingfisher
+    - Moya
+    - Realm
+    - RealmSwift
+    - Result
+    - Typhoon
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  DeepDiff: 0ee83ac6942d441f677c22e981548c6e0937f2b6
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  Realm: 0378021c424e4e2bd6a0e63b27881e929d9b9ad1
+  RealmSwift: 3322562622fda2ad596985ead4d8d8be30cf838c
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  Typhoon: fe0fa417515e279f68170cfe3ae9c1d5eae53205
+
+PODFILE CHECKSUM: d714416beb633495f395e77a11d15bd0d7c7f8ae
+
+COCOAPODS: 1.5.0
